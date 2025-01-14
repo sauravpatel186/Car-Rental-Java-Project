@@ -18,3 +18,29 @@
 
 <li>User Management: View and manage user accounts.</li>
 </ul>
+<h3>Technology Stack</h3>
+
+<h4>Frontend:</h4>
+<ul>
+  
+<li>Framework: Angular</li>
+
+<li>Styling: Angular Material, CSS</li>
+
+<li>HTTP Client: Used to communicate with the backend REST APIs</li>
+
+<li>Routing: Angular Router for navigation</li>
+</ul>
+
+<h4>Backend:<h4>
+<ul>
+<li>Framework: Spring Boot</li>
+
+<li>Database: MySQL (or PostgreSQL)</li>
+
+<li>Authentication: JWT-based authentication</li>
+
+<li>ORM: Hibernate (JPA)</li>
+
+<li>Dependencies: Spring Data JPA, Spring Security, Spring Web</li>
+</ul>

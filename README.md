@@ -25,7 +25,7 @@
   
 <li>Framework: Angular</li>
 
-<li>Styling: Angular Material, CSS</li>
+<li>Styling: Angular Material, SCSS</li>
 
 <li>HTTP Client: Used to communicate with the backend REST APIs</li>
 

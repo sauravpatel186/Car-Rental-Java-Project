@@ -12,7 +12,7 @@
 
 <li>User Authentication: Register and log in securely.</li>
 
-<li>Admin Features:</li>
+<h4>Admin Features:</h4>
 
 <li>Car Management: Add, update, and remove cars from the inventory.</li>
 

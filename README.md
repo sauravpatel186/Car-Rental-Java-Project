@@ -11,9 +11,9 @@
 <li>View Bookings: Manage and track existing bookings.</li>
 
 <li>User Authentication: Register and log in securely.</li>
-
+</ul>
 <h4>Admin Features:</h4>
-
+<ul>
 <li>Car Management: Add, update, and remove cars from the inventory.</li>
 
 <li>User Management: View and manage user accounts.</li>
